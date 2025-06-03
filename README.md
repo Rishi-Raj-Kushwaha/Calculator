@@ -13,4 +13,3 @@ To use this project, clone the repository and run it locally:
 
 ```bash
 git clone https://github.com/Rishi-Raj-Kushwaha/Calculator.git
-cd Calculator
