@@ -1,5 +1,7 @@
 # Calculator
 
+Live Preview :- https://calculator-project-24.netlify.app/
+
 ## Overview
 This is a simple calculator application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides an intuitive interface and accurate calculations for everyday use.
 
